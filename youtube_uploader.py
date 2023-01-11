@@ -1,7 +1,7 @@
 from youtube_upload.client import YoutubeUploader
 
-client_id = "851810660056-m7jqu1mfe5nl160gqnnq7ji0cf7trmbe.apps.googleusercontent.com"
-client_secret = "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"
+client_id = "YOUR_ID"
+client_secret = "YOUR_SECRET"
 
 
 
